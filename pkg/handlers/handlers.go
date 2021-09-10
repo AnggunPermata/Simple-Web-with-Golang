@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/AnggunPermata/Simple-Web-with-Golang/render"
+	"github.com/AnggunPermata/Simple-Web-with-Golang/pkg/render"
 )
 
 //This is a homepage

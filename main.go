@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AnggunPermata/Simple-Web-with-Golang/handlers"
+	"github.com/AnggunPermata/Simple-Web-with-Golang/pkg/handlers"
 )
 
 //Setting port
